@@ -1,0 +1,37 @@
+[
+  {
+  "id": 1,
+  "Name": "Altay",
+  "Type": "Кольцо",
+  "Price": "3 490 ₽",
+  "URLImage": "https://sun9-45.userapi.com/impg/8rTwaTfDCMsqnOsr4p_d31XJ5wpBm80Nmm_LSQ/oaB7wDCVHtA.jpg?size=520x0&quality=95&sign=9537988203c02f03e64bc8da9845295c"
+  },
+  {
+  "id": 2,
+  "Name": "Kamchatka",
+  "Type": "Кольцо",
+  "Price": "3 490 ₽",
+  "URLImage": "https://sun9-6.userapi.com/impg/j8hNeZcspo6DCBEQSaUY5F2sCnYLAPgdqRyT0A/rLIXCDBQVb4.jpg?size=520x0&quality=95&sign=b526450ff7a35e7ecfa9772771611e37"
+  },
+    {
+  "id": 3,
+  "Name": "Volcano pendant",
+  "Type": "Кулон",
+  "Price": "3 490 ₽",
+  "URLImage": "https://sun9-27.userapi.com/impg/p7e56nX2ZexX5J75Kd6HKYZmv5Y6sb1wrDmOGw/h0fAtSAHhBE.jpg?size=520x0&quality=95&sign=b802dd46cdbc6444923c0d0ca079c920"
+  },
+  {
+  "id": 4,
+  "Name": "Dawn in the mountains (minimal)",
+  "Type": "Кулон",
+  "Price": "2 490 ₽",
+  "URLImage": "https://sun9-72.userapi.com/impf/c850724/v850724815/626cf/e9jSW_OfmgQ.jpg?size=520x0&quality=95&sign=f50c2b27e03bcd5edebdae23c9577168"
+  },
+    {
+  "id": 5,
+  "Name": "Nature",
+  "Type": "Браслет",
+  "Price": "6 990 ₽",
+  "URLImage": "https://sun9-7.userapi.com/impg/Yw3iln8knIEYOWS7qs0-LYAHlJdHbSYtep4BjA/ovmbca6Qkhg.jpg?size=520x0&quality=95&sign=3f10b0093d6d9586ea11581565852407"
+  }
+]
